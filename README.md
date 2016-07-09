@@ -1,2 +1,2 @@
 # hello-world
-just one more tutorial
+Working on the tutorial. Learning stuff. Whatnot.
